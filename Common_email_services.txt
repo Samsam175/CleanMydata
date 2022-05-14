@@ -2,3 +2,8 @@
 @yahoo.com
 @hotmail.com
 @icloud.com
+@orange.fr
+@outlook.fr
+@googlemail.com
+@hotmail.fr
+@free.fr
