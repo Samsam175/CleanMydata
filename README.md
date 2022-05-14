@@ -1,5 +1,8 @@
 # CleanMyData
  
+DISCLAIMER : This is very early stage of developement. I only published it to attract more experienced programmers.
+
+ 
 Français :
 
 Ce projet tente d'offrir une alternative Open Source à l'app SayMine.
